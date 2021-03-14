@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/gcc-arm-none-eabi-6-2017-q2-update/
+
+qemu-2.11.0/
